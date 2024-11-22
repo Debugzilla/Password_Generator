@@ -19,4 +19,4 @@ Este es un generador de contraseñas aleatorias creado en Python, diseñado para
 3. Ejecuta el script con el siguiente comando:
 
    ```bash
-   python generador_contraseña.py
+   python3 pswd.py
